@@ -1,5 +1,5 @@
 # Experiment2_Rotation_Transformation
-#202411081099 计算机科学与技术 席子琦
+# 202411081099 计算机科学与技术 席子琦
 本项目通过 [Taichi](https://www.taichi-lang.org/) 框架，手动推导并实现了完整的 **Model-View-Projection（MVP）** 变换流程，将三维空间中的几何体投影到二维屏幕上并进行实时线框渲染。
 
 ---
